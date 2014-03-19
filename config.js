@@ -2,7 +2,7 @@ mongo_hacker_config = {
     verbose_shell:  true,      // additional verbosity
     index_paranoia: true,      // querytime explain
     enhance_api:    true,      // additonal api extensions
-    indent:         2,         // number of spaces for indent
+    indent:         4,         // number of spaces for indent
     uuid_type:      'default', // 'java', 'c#', 'python' or 'default'
     banner_message: 'Mongo-Hacker ', //banner message
     version:        '0.0.4',    // current mongo-hacker version
